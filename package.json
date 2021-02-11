@@ -1,0 +1,34 @@
+{
+  "name": "dsvghjkasgvdhjlasdhshdsadhsdhs",
+  "version": "1.0.0",
+  "description": "**[ABONE OL](https://www.youtube.com/channel/UCkCb5aCRW_3mEzpcPP18iVw?sub_confirmation=1)URMUSUN LÜTFEEEEN**",
+  "main": "index.js",
+  "dependencies": {
+    "burc.js": "^1.1.3",
+    "canvas": "^2.6.1",
+    "danbot-hosting": "^0.1.6",
+    "dbd.js": "^1.9.4",
+    "dctr-antispam.js": "^0.1.1",
+    "discord-nsfw": "^1.3.0",
+    "discord.js": "^12.5.1",
+    "exports": "0.0.1",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "hastebin-gen": "^2.0.5",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.11",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3",
+    "ytdl-core": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
